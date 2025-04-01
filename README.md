@@ -89,10 +89,3 @@ Para a construção e execução do projeto foram utilizadas as tecnologias:
 ## 📃 Licença
 
 Este repositório está licensiado sob a [Licença MIT](./LICENSE).
-
-<div align=center>
-
-
-[![GitHub License](https://img.shields.io/github/license/VascoMay/Software-sem-seguranca-nao-serve)](./LICENSE)
-
-</div>
